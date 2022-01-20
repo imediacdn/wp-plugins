@@ -720,25 +720,6 @@ h3.result-error{width:100%;text-align:center;font-size:0.9em;font-weight:bold;te
 #fb-like-box, .fb-like-box, .fb-like-box iframe[style], .fb-like-box span {width: 100% !important;}
 .fb-comments .fss.fwn.fcg{display:none !important;}
 
-#autoShow{display:none;}
-#autoShow h3{margin-top:0px;margin-bottom:30px;font-size:14px;}
-#autoShow h4{padding-top:10px;font-size:10px;font-weight:normal;margin-bottom:-40px;}
-#autoShow .fb-button{margin-left:35px;margin-right:15px;width:60px;}
-#autoShow .tw-button{margin-left:15px;margin-right:15px;width:60px;}
-#autoShow .gp-button{margin-left:15px;margin-right:15px;width:60px;}
-#autoShow .ln-button{margin-left:15px;margin-right:15px;width:60px;}
-#lepopup-overlay{position:fixed;width:100%;height:100%;top:0;left:0;background-color:#000;opacity:.7 !important;display:none;z-index:10000}
-#lepopup-wrap{position:absolute;max-width:100%;min-width:400px;display:none;z-index:10010}
-#lepopup-wrap>#lepopup-outer{position:relative;border-style:solid;z-index:10015;overflow:hidden;border-width:0}
-#lepopup-wrap>#lepopup-outer>#lepopup-footer{float:left;clear:both;width:100%;height:40px}
-#lepopup-wrap>#lepopup-outer>#lepopup-footer>#lepopup-close{position:absolute;width:73px;height:14px;bottom:12px;right:20px;cursor:pointer;background-color:transparent;background-image:url('images/sprite-close.png');background-repeat:no-repeat;background-position:0 -14px;z-index:10025;border:0 !important}
-#lepopup-wrap>#lepopup-outer>#lepopup-footer>#lepopup-close:hover{background-position:0 0}
-#lepopup-wrap>#lepopup-outer>#lepopup-inner{float:left;position:relative;background-color:transparent;width:100%;height:100%;z-index:10020}
-#lepopup-wrap>#lepopup-outer.loading{background-image:url('images/ajax-loader.gif');background-repeat:no-repeat;background-position:center center}
-#lepopup-wrap>#lepopup-outer.default{box-shadow:inset 0 0 40px rgba(0,0,0,0.3),0 0 30px rgba(0,0,0,0.5);padding:30px;background-color:#fff;border-radius:0px}
-#lepopup-wrap>#lepopup-outer.big-shadow{box-shadow:inset 0 0 120px rgba(0,0,0,0.3),0 0 40px rgba(0,0,0,0.5);padding:30px;background-color:#fff;border-radius:0px}
-#lepopup-wrap>#lepopup-outer.none{background:transparent}
-
 #accordion .ui-accordion-content blockquote{margin:2px;padding:0 20px 0px 12px}
 #accordion .ui-accordion-content blockquote p{font-size:14px;line-height:18px;padding:0;margin:7px 2px;}
 
